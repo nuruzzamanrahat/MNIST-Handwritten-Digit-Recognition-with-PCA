@@ -40,8 +40,5 @@ The workflow includes:
   seaborn
   scikit-learn
 
-  ---
-   <img width="1444" height="1497" alt="image" src="https://github.com/user-attachments/assets/c76bebda-2361-484c-94ee-e385033f6c03" />
-
-
+  
 
