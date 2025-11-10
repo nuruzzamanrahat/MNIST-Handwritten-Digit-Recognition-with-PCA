@@ -29,7 +29,7 @@ The workflow includes:
 - **Performance Analysis:** Compare training and testing accuracy across different numbers of PCA components  
 
 ---
-
+  <img width="1444" height="1497" alt="image" src="https://github.com/user-attachments/assets/c76bebda-2361-484c-94ee-e385033f6c03" />
 ## Requirements
 
 - Python 3.8+  
@@ -38,7 +38,7 @@ The workflow includes:
   numpy
   matplotlib
   seaborn
-  scikit-learn ```
+  scikit-learn 
 
-  <img width="1444" height="1497" alt="image" src="https://github.com/user-attachments/assets/c76bebda-2361-484c-94ee-e385033f6c03" />
+
 
